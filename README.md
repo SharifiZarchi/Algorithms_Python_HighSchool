@@ -18,7 +18,7 @@
 * [چالش ببراس ششم](http://learn-python.ir/hw6)
 * [چالش ببراس هفتم](http://learn-python.ir/hw7)
 <bl>
-اما، <strong>تهیه‌ی این محتوای ارزشمند و برگزاری این دوره ممکن نبود مگر با مشارکت یک تیم بزرگ از دانشجویان و دانش‌آموختگانی که داوطلبانه با اشتیاق بسیار، مشارکت کردند. نام این عزیزان در [Teams](https://github.com/SharifiZarchi/Algorithmic_Creativity_Python_Programming_Highschool_Students/blob/main/Team.pdf) آمده است. </strong>
+اما، <strong>تهیه‌ی این محتوای ارزشمند و برگزاری این دوره ممکن نبود مگر با مشارکت یک تیم بزرگ از دانشجویان و دانش‌آموختگانی که داوطلبانه با اشتیاق بسیار، مشارکت کردند. نام این عزیزان در [Teams.pdf](https://github.com/SharifiZarchi/Algorithmic_Creativity_Python_Programming_Highschool_Students/blob/main/Team.pdf) آمده است. </strong>
 
 # Computer Science and Python Programming for Highschool Students
 
