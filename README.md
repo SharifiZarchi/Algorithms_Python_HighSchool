@@ -17,6 +17,7 @@
 * [چالش ببراس پنجم](http://learn-python.ir/hw5)
 * [چالش ببراس ششم](http://learn-python.ir/hw6)
 * [چالش ببراس هفتم](http://learn-python.ir/hw7)
+
 <strong>تهیه‌ی این محتوای ارزشمند و برگزاری این دوره ممکن نبود مگر با مشارکت یک تیم بزرگ از دانشجویان و دانش‌آموختگانی که داوطلبانه با اشتیاق بسیار، مشارکت کردند. نام این عزیزان در Teams.pdf آمده است. </strong>
 
 # Computer Science and Python Programming for Highschool Students
