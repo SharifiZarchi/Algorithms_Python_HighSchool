@@ -10,13 +10,13 @@
 
 * [ویدئوهای کل دوره](https://ocw.sharif.edu/course/id/522)
 * [تمرین‌های عملی و درس‌نامه‌ها](https://quera.org/college/land/college/11644/برنامه%20تابستانه%20علوم%20کامپیوتری/) 
-* [چالش ببراس اول](http://learn-python.ir/hw1)
-* [چالش ببراس دوم](http://learn-python.ir/hw2)
-* [چالش ببراس سوم](http://learn-python.ir/hw3)
-* [چالش ببراس چهارم](http://learn-python.ir/hw4)
-* [چالش ببراس پنجم](http://learn-python.ir/hw5)
-* [چالش ببراس ششم](http://learn-python.ir/hw6)
-* [چالش ببراس هفتم](http://learn-python.ir/hw7)
+* [چالش ببراس اول](http://practice.learn-python.ir/hw1)
+* [چالش ببراس دوم](http://practice.learn-python.ir/hw2)
+* [چالش ببراس سوم](http://practice.learn-python.ir/hw3)
+* [چالش ببراس چهارم](http://practice.learn-python.ir/hw4)
+* [چالش ببراس پنجم](http://practice.learn-python.ir/hw5)
+* [چالش ببراس ششم](http://practice.learn-python.ir/hw6)
+* [چالش ببراس هفتم](http://practice.learn-python.ir/hw7)
 
 اما، تهیه‌ی این محتوای ارزشمند و برگزاری این دوره ممکن نبود مگر با مشارکت یک تیم بزرگ از دانشجویان و دانش‌آموختگانی که داوطلبانه با اشتیاق بسیار، مشارکت کردند. از همه‌ی این عزیزان صمیمانه سپاس‌گزاریم.
 
